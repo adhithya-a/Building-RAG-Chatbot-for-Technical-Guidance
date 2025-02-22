@@ -1,7 +1,7 @@
 # Building-RAG-Chatbot-for-Technical-Guidance
 This is a guided DataCamp project on how to create a context-aware chatbot using RAG that provides instructions and technical guidance to new drivers.
 
-** DESCRIPTION OF THE PROJECT from DATACAMP **
+**DESCRIPTION OF THE PROJECT from DATACAMP**
 
 You're working for a well-known car manufacturer who is looking at implementing LLMs into vehicles to provide guidance to drivers. You've been asked to experiment with integrating car manuals with an LLM to create a context-aware chatbot. They hope that this context-aware LLM can be hooked up to a text-to-speech software to read the model's response aloud.
 
